@@ -1,0 +1,5 @@
+Ghosts randomly disguise themselves as walls
+Keep moving! You lose 1 point for each second spent!
+You only have 1 bullet. Use it wisely.
+Ghosts can never die. They respawn at random locations when killed.
+Each ghost targets a different location. Try figuring it out.
